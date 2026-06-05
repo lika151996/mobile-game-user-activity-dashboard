@@ -1,31 +1,45 @@
-
 # Mobile Game User Activity Dashboard
+Business Problem
 
-## Project Overview
+Gaming product teams need a quick way to monitor player engagement and evaluate the effectiveness of in-game activities such as Battle Pass events.
 
-This project was created in Tableau to analyze player engagement and game activity trends.
+Without a centralized dashboard, it becomes difficult to identify changes in user behavior across different age groups and time periods.
 
-### Dashboard includes:
+Solution
 
-* Average Play Time trend
-* Battle Pass Metrics (dual-axis chart)
-* Player Activity Heat Map
-* Interactive filters (Age Group, Language, Activity Date, Game Activity)
+This Tableau dashboard was designed to provide an interactive overview of key player activity metrics.
 
-## Key Skills Demonstrated
+## The dashboard helps answer questions such as:
 
-* Tableau Dashboard Design
-* Calculated Fields
-* Dual-Axis Charts
-* Heat Maps
-* Interactive Filters
-* Data Visualization
-* Business Metrics Interpretation
+How does average play time change over time?
+What is the relationship between Battle Pass participation and active users?
+Which player segments are the most engaged?
+How does player activity vary across different periods?
+Dashboard Components
+Average Play Time
 
-## Tools
+Tracks changes in average hours played per user.
 
-* Tableau Public
-* CSV Dataset
+Battle Pass Metrics
+
+Dual-axis visualization combining:
+
+Battle Pass adoption rate
+Number of unique active users
+Player Activity Heat Map
+
+Highlights engagement intensity by age group and quarter.
+
+## Tools Used:
+
+Tableau Public
+Tableau Desktop
+CSV Dataset
+Calculated Fields
+Dual Axis Charts
+Heat Maps
+Interactive Filters
+Dashboard Preview
 
 ## Dashboard Preview
 
