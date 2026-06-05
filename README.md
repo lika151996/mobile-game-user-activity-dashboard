@@ -36,5 +36,4 @@ This project was created in Tableau to analyze player engagement and game activi
 
 ## Tableau Public Link
 
-[View Interactive Dashboard]([PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/app/profile/anzhelika.ivanova/viz/GameActivityAnalyticsDashboard_17804055010000/MobileGameUserActivityDashboard
-)
+[View Interactive Dashboard](https://public.tableau.com/app/profile/anzhelika.ivanova/viz/GameActivityAnalyticsDashboard_17804055010000/MobileGameUserActivityDashboard)
